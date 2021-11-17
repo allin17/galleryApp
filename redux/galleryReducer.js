@@ -7,7 +7,7 @@ const REMOVE_COMPLETELY = 'REMOVE_COMPLETELY'
 
 
 const initialState = {
-    photoUrls: [{photoUrls: []}],
+    photoUrls: [],
     favoritesUrls: ['https://images.dog.ceo/breeds/african/n02116738_1180.jpg']
 }
 
