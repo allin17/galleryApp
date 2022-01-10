@@ -1,4 +1,4 @@
-import { getPhotos } from "../api"
+import { getPhotos } from "../api/api"
 
 const SET_IMAGES = 'SET_IMAGES'
 const ADD_FAVORITES = 'ADD_FAVORITES'

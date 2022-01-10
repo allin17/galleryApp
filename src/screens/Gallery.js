@@ -14,8 +14,6 @@ const Gallery = ({navigation}) => {
     dispatch(getImageUrls())
   }, []);
 
-  
-  console.log(photoUrls.urlsArr)
   return (
     <View>
       <FlatList
